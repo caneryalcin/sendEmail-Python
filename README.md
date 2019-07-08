@@ -1,5 +1,5 @@
 # sendEmail-Python
-This project aims to send email to gmail.
+This project aims to sending an email to gmail.
 
 ---
 
