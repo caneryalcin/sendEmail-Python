@@ -17,6 +17,7 @@ Run the following commands on terminal
 make sure you have permission to run.
 
 chmod +x /etc/rc.local
+
 chmod +x /path/to/your_script.py
 
 nano /etc/rc.local
