@@ -12,9 +12,14 @@ After you set password and run the code again if you don't take any failure you 
 ----
 ## Run Python script at startup in Ubuntu
 
-Run the following command on terminal
+Run the following commands on terminal
 
-crontab -e
+make sure you have permission to run.
+
+chmod +x /etc/rc.local
+chmod +x /path/to/your_script.py
+
+nano /etc/rc.local
 
 and write your path to your python script to the end like example in below
 
