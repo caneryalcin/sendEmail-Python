@@ -25,4 +25,5 @@ nano /etc/rc.local
 and write your path to your python script to the end like example in below
 
 python /path/to/your_script.py
+
 exit 0
