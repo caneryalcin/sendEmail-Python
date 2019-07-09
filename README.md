@@ -15,15 +15,19 @@ After you set password and run the code again if you don't take any failure you 
 Run the following commands on terminal
 
 make sure you have permission to run.
-
+```
 chmod +x /etc/rc.local
 
 chmod +x /path/to/your_script.py
+```
+---
 
+```
 nano /etc/rc.local
-
+```
 and write your path to your python script to the end like example in below
-
+```
 python /path/to/your_script.py
 
 exit 0
+```
